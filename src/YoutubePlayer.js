@@ -2,7 +2,8 @@ import React, {Component} from 'react';
 import {Form, Container} from 'semantic-ui-react';
 
 class YoutubePlayer extends Component{
-
+  
+    
   render(){
     return(
       <div>
